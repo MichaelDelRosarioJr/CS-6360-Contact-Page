@@ -1,0 +1,6 @@
+Before you compile:
+  *In lines 75 of Contact_Page.java and 103 editContact_Page change the path to your selected database.
+    (Database path, IP address, Password)
+How to run:
+  *Compile Contact_Page, addContact_Page, editContact_Page java files.
+  *Run Contact_Page
